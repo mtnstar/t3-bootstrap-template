@@ -1,0 +1,8 @@
+#############
+#### RTE ####
+#############
+RTE {
+    default {
+        preset = mountain_star_bootstrap_template
+    }
+}
